@@ -1,0 +1,17 @@
+{
+    "name": "j2/class_debugger",
+    "description": "Debug class using reflection",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "J2\\ClassDebugger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeremie Yunsay"
+        }
+    ],
+    "require": {}
+}
